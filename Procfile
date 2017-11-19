@@ -1,1 +1,1 @@
-web: "/usr/bin/python manage.py runserver 0.0.0.0:$PORT"
+web: "/usr/bin/python /app/manage.py runserver 0.0.0.0:$PORT"
