@@ -9,4 +9,4 @@ script:
 deploy:
   provider: heroku
   api_key: 96a23a17-2f61-4b6d-8840-29805d4167b6
-  app: ilja-django2
+  app: ilja-django3
