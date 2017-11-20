@@ -1,1 +1,1 @@
-web: "/app/.heroku/python/bin/python ../../../../manage.py runserver 0.0.0.0:$PORT"
+web: "/app/.heroku/python/bin/python ../../../../app/manage.py runserver 0.0.0.0:$PORT"
