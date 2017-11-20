@@ -25,7 +25,7 @@ SECRET_KEY = '3^=6e+moy#f9ur604_5mxpx+vt!^t2ie9**1b&v6-%^u1#ne)f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ilja-django3.herokuapp.com]
+ALLOWED_HOSTS = ['ilja-django3.herokuapp.com']
 
 
 # Application definition
